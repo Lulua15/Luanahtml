@@ -1,0 +1,14 @@
+
+body {
+color: white;
+background: rgb(2, 1, 75);
+margin: 0px;
+font-family:"Chakra"
+}
+header {
+border-bottom: solid 2px rgb(200, 139, 250);
+padding: 20px;
+font-size: 32px;
+color: rgb(200, 139, 250);
+}
+
