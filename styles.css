@@ -1,14 +1,13 @@
-
 body {
 color: white;
-background: rgb(2, 1, 75);
+background: rgb(0, 19, 105);
 margin: 0px;
-font-family:"Chakra"
+font-family:"molle"
 }
 header {
-border-bottom: solid 2px rgb(200, 139, 250);
-padding: 20px;
-font-size: 32px;
-color: rgb(200, 139, 250);
+border-bottom: solid 2px rgb(127, 48, 255);
+padding: 1px;
+font-size:40px;
+color: rgb(127, 48, 255);
 }
 
