@@ -10,4 +10,59 @@ padding: 0px;
 font-size:45px;
 color: rgb(127, 48, 255);
 }
+.AÇÃO {
+background: rgb(5, 238, 44);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.COMÉDIA{
+margin-right: 5%;
+}
+h1 {
+font-size: 40px;
+}
 
+p {
+font-size: 20px;
+}
+.ESPORTE {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+.FICÇÃO-CIENTÍFICA-E-MISTÉRIO{
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+}
+
+.ROMANCE {
+background: rgb(5, 238, 44);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.FANTASIA-E-SOBRENATURAL{
+margin-right: 5%;
+}
+h1 {
+font-size: 40px;
+}
+
+p {
+font-size: 20px;
+}
+.TERROR-E-SUSPENSE
+ {
+display: flex;
+overflow-x: auto;
+gap: 10px;
+}
+.DRAMA-OU-ROMANCE-ADOLESCENDO{
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 50px;
+}
