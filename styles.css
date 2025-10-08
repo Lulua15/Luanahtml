@@ -14,20 +14,20 @@ color: rgb(127, 48, 255);
 }
 .ACAO {
 background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
+padding-bottom: 8px;
+padding-top: 2px;
 display: flex;
 overflow-x: auto;
-gap: 50px;
+gap: 5px;
 }
 .ACAO{
-padding-left: 20px;
-padding-right: 200px;
-margin-top: 50px;
+padding-left: 2px;
+padding-right: 2px;
+margin-top: 5px;
 }
 .ACAO{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 
 .COMEDIA {
@@ -45,7 +45,7 @@ margin-top: 50px;
 }
 .COMEDIA{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 
 .ESPORTE {
@@ -63,7 +63,7 @@ margin-top: 50px;
 }
 .ESPORTE{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 
 .FICCAOCM {
@@ -81,7 +81,7 @@ margin-top: 50px;
 }
 .FICCAOCM{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 .ROMANCE{
 background: rgb(100, 0, 182);
@@ -98,7 +98,7 @@ margin-top: 50px;
 }
 .ROMANCE{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 .FANTASIA {
 background: rgb(100, 0, 182);
@@ -115,7 +115,7 @@ margin-top: 50px;
 }
 .FANTASIA{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 .TERROR {
 background: rgb(100, 0, 182);
@@ -132,7 +132,7 @@ margin-top: 50px;
 }
 .TERROR{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
 .DRAMARA {
 background: rgb(100, 0, 182);
@@ -149,5 +149,5 @@ margin-top: 50px;
 }
 .DRAMARA{
 opacity: 0.5;
-height: 300px;
+height: 30px;
 }
