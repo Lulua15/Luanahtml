@@ -1,153 +1,51 @@
 body {
 color: white;
-background: rgb(0, 19, 105);
+background: rgb(23, 2, 78);
 margin: 0px;
-font-family:"molle";
-font: 200px;
-
+font-family: "Chakra Petch", sans-serif;
+margin-bottom: 100px;
 }
 header {
-border-bottom: solid 2px rgb(127, 48, 255);
-padding: 0px;
-font-size:45px;
-color: rgb(127, 48, 255);
+border-bottom: solid 2px rgb(42, 122, 228);
+padding: 20px;
+font-size: 32px;
+color: rgb(238, 14, 14);
 }
-.ACAO {
-background: rgb(100, 0, 182);
-padding-bottom: 8px;
-padding-top: 2px;
+.chamada {
+background: rgb(5, 238, 44);
+padding-bottom: 80px;
+padding-top: 80px;
 display: flex;
-overflow-x: auto;
-gap: 5px;
+justify-content: center;
 }
-.ACAO{
-padding-left: 2px;
-padding-right: 2px;
-margin-top: 5px;
+.chamada-texto {
+margin-right: 5%;
 }
-.ACAO{
-opacity: 0.5;
-height: 30px;
+h1 {
+font-size: 40px;
 }
 
-.COMEDIA {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
+p {
+font-size: 20px;
+}
+.acao {
 display: flex;
 overflow-x: auto;
 gap: 10px;
 }
-.COMEDIA{
+.categoria {
 padding-left: 20px;
 padding-right: 20px;
 margin-top: 50px;
 }
-.COMEDIA{
+.acao img {
 opacity: 0.5;
-height: 30px;
+height: 200px;
 }
-
-.ESPORTE {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
+.categoria-videos img:hover {
+opacity: 1.0;
+border: 3px solid green;
 }
-.ESPORTE{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.ESPORTE{
-opacity: 0.5;
-height: 30px;
-}
-
-.FICCAOCM {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
-}
-.FICCAOCM{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.FICCAOCM{
-opacity: 0.5;
-height: 30px;
-}
-.ROMANCE{
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
-}
-.ROMANCE{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.ROMANCE{
-opacity: 0.5;
-height: 30px;
-}
-.FANTASIA {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
-}
-.FANTASIA{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.FANTASIA{
-opacity: 0.5;
-height: 30px;
-}
-.TERROR {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
-}
-.TERROR{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.TERROR{
-opacity: 0.5;
-height: 30px;
-}
-.DRAMARA {
-background: rgb(100, 0, 182);
-padding-bottom: 80px;
-padding-top: 20px;
-display: flex;
-overflow-x: auto;
-gap: 10px;
-}
-.DRAMARA{
-padding-left: 20px;
-padding-right: 20px;
-margin-top: 50px;
-}
-.DRAMARA{
-opacity: 0.5;
-height: 30px;
+.categoria h2 {
+color: rgb(226, 13, 13);
 }
